@@ -1,0 +1,26 @@
+{
+  "name": "7-03_playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "playwright"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TinitaQA/7-03_playwright.git"
+  },
+  "author": "Kris Mishchuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TinitaQA/7-03_playwright/issues"
+  },
+  "homepage": "https://github.com/TinitaQA/7-03_playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.44.0",
+    "playwright": "^1.44.0"
+  }
+}
