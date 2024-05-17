@@ -21,6 +21,7 @@
   "homepage": "https://github.com/TinitaQA/7-03_playwright#readme",
   "devDependencies": {
     "@playwright/test": "^1.44.0",
+    "@types/node": "^20.12.12",
     "playwright": "^1.44.0"
   }
 }
